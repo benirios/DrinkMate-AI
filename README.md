@@ -24,7 +24,6 @@ DrinkMate AI is a minimalist iOS app that helps users estimate alcohol risk and 
 - **Editable Settings**
   - Users can update onboarding information at any time via the Settings screen
     <img width="300" height="600" alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-30 at 20 31 14" src="https://github.com/user-attachments/assets/ad7a3e75-50f2-4175-9377-159de6c3e06e" />
-
 - **Cal AI–Inspired UI**
   - Clean, card-based layout
   - Large typography and minimal distractions
