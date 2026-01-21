@@ -1,6 +1,6 @@
 # 🍸 DrinkMate AI
 
-DrinkMate AI is a minimalist iOS app that helps users estimate alcohol risk and sobriety using a simplified **BAC (Blood Alcohol Concentration)** calculation based on the **Widmark formula**. The app is designed to be fast, private, and fully offline, promoting safer and more informed decisions.
+DrinkMate AI is a minimalist iOS app that helps users estimate alcohol risk and sobriety using a simplified **BAC (Blood Alcohol Concentration)** calculation based on the **Widmark formula**. The app is designed to be fast, and private, promoting safer and more informed decisions.
 
 ## 🚀 Features
 
